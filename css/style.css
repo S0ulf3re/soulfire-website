@@ -1,0 +1,21 @@
+
+#intro {
+	display: flex;
+	align-content: center;
+	justify-content: center;
+}
+
+#avatar {
+	display: block;
+	border-radius: 10px;
+
+}
+
+#info {
+	border-radius: 10px;
+	}
+	
+#info-text {
+	margin: 10%;
+	padding: 1%;
+}
