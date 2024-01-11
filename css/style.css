@@ -52,7 +52,9 @@ footer {
 #webrings {
   flex-direction: row;
   border-radius: 10px;
+  text-decoration: none;
 }
+
 
 .friends-links {
   margin: 5px;
