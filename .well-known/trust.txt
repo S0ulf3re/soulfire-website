@@ -2,6 +2,5 @@ social=https://wetdry.world/@soulfirethewolf
 social=https://bsky.app/profile/soulfire.jarexibackblaze.xyz
 social=https://blimps.xyz/@Soulfirethewolf
 social=https://www.furaffinity.net/user/dunked0n
-social=https://t.me/Soulfire.thewolf
 datatrainingallowed=no
 contact=mailto:soulfire@jarexibackblaze.xyz
